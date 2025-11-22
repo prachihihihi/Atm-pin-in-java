@@ -15,4 +15,4 @@ public class SumAndProduct {
         System.out.println("Sum of even numbers: " + sumEven);
         System.out.println("Product of odd numbers: " + productOdd);
     }
- }
+}
