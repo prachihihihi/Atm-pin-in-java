@@ -16,4 +16,3 @@ public class SumAndProduct {
         System.out.println("Product of odd numbers: " + productOdd);
     }
  }
- 
